@@ -3,7 +3,7 @@
 
 Winner predictor based of on the initial performance of the teams, players using regression and classification algorithms
 
-<h3>WEB file</h3>
+<h3>PL file</h3>
 <ul>
   
   <li>changes made in sub file of spiders </li>
