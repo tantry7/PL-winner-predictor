@@ -1,5 +1,5 @@
 <h1>PL-winner-predictor</h1>
-<h2>initial day</h2>
+<h2>initial days</h2>
 
 Winner predictor based of on the initial performance of the teams, players using regression and classification algorithms
 
